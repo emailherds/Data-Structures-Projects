@@ -1,2 +1,2 @@
 # Data-Structures-Projects
-All of the Data Structures projects.
+Data structures projects from Rutgers CS 112
